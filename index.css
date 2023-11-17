@@ -485,6 +485,12 @@ footer {
         opacity: 0;
     }
 
+    p,
+    ol,
+    ul,
+    footer {
+        font-size: 2.5vw;
+    }
 
     section>.layout>article:nth-of-type(2) {
         display: grid;
